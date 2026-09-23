@@ -10,7 +10,7 @@ Email already reaches people, agents and the systems around them. MailSchema def
 
 Mail Action Protocol (MAP) carries structured action descriptions alongside ordinary readable email. It does not grant authority. Implementing services keep control of authentication, permissions, human approvals, content policy, rate limits and the underlying work.
 
-**Current status:** MAP 0.1 and Content Review 0.1 are working drafts. Information Request and Subscription Preferences are proposals. The project is validating the execution profile and implementation evidence before an Internet-Draft submission.
+**Current status:** MAP 0.1 and Content Review 0.1 are working drafts. Information Request and Subscription Preferences are proposals. The project is completing public end-to-end implementation evidence before an Internet-Draft submission.
 
 ## Repositories
 
