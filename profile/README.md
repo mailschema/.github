@@ -15,6 +15,9 @@ Mail Action Protocol (MAP) carries structured action descriptions alongside ordi
 ## Repositories
 
 - [`mailschema`](https://github.com/mailschema/mailschema) — specification source, shared schemas, Registry, conformance fixtures and the public site.
-- [`go`](https://github.com/mailschema/go) — typed MAP documents and canonical MailSchema schemas for Go.
+- [`javascript`](https://github.com/mailschema/javascript) — JavaScript and TypeScript validation library and CLI.
+- [`python`](https://github.com/mailschema/python) — Python validation library and CLI.
+- [`rust`](https://github.com/mailschema/rust) — embedded canonical schemas for Rust.
+- [`go`](https://github.com/mailschema/go) — typed MAP documents, strict decoding and canonical schemas for Go.
 
 Type proposals, amendments and evidence-backed implementation declarations are submitted through the public repository. [Read the contribution guide](https://mailschema.org/contribute/).
